@@ -84,5 +84,10 @@ expense-tracker/
 MIT
 
 ## 👨‍💻 Tác giả
+Thoalt
 
-Tạo bởi bạn - có thể push lên GitHub cá nhân!
+## 👨‍💻 ScreenShot
+<img width="1506" height="833" alt="image" src="https://github.com/user-attachments/assets/c50d28d0-b0f8-47bb-806a-4f01247ed62c" />
+<img width="1454" height="893" alt="image" src="https://github.com/user-attachments/assets/659ee9cc-08fc-4372-8d3f-ff37e7928cdb" />
+
+
